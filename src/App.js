@@ -5,15 +5,14 @@ import './App.css';
 function App() {
 
 
-    window.location.href = "mailto:mail@example.org";
+    // window.location.href = "mailto:mail@example.org";
 
   return (
-    <div className="App">
+    <div
+      className="App"
+      >
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <img src={"https://cdn.pixabay.com/photo/2017/08/06/11/44/people-2591693_1280.jpg"} />
       </header>
     </div>
   );
