@@ -5,7 +5,7 @@ import './App.css';
 function App() {
 
 
-    // window.location.href = "mailto:mail@example.org";
+    window.location.href = "mailto:mail@example.org";
 
   return (
     <div
